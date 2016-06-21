@@ -1,3 +1,7 @@
+# Tutorial
+
+[Tut Link](https://medium.com/@Stephanbv/elixir-phoenix-lets-code-authentication-todo-application-part-1-599ee94cd04d#.fwcls6w6l)
+
 # Todo
 
 To start your Phoenix app:
